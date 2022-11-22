@@ -1,0 +1,17 @@
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\bin\Debug\net6.0-windows\PaieVendeur.exe
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\bin\Debug\net6.0-windows\PaieVendeur.deps.json
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\bin\Debug\net6.0-windows\PaieVendeur.runtimeconfig.json
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\bin\Debug\net6.0-windows\PaieVendeur.dll
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\bin\Debug\net6.0-windows\PaieVendeur.pdb
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.vbproj.AssemblyReference.cache
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.Form1.resources
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.vbproj.GenerateResource.cache
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.AssemblyInfoInputs.cache
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.AssemblyInfo.vb
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.vbproj.CoreCompileInputs.cache
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.dll
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\refint\PaieVendeur.dll
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.pdb
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\PaieVendeur.genruntimeconfig.cache
+C:\Users\ABASSE\source\repos\PaieVendeur\PaieVendeur\obj\Debug\net6.0-windows\ref\PaieVendeur.dll
